@@ -53,7 +53,7 @@ npm start
 ### Frontend Setup
 
 ```bash
-cd my-app
+cd frontend
 npm install
 npm run dev
 ```
